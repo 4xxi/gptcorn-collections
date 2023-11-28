@@ -1,0 +1,7 @@
+.idea/
+**/.DS_Store
+.vs_code
+.vscode/
+.cache
+.npm
+.ash_history

@@ -1,0 +1,22 @@
+{
+  "collections": [
+    {
+      "title": "GitHub helper",
+      "description": "GPTCorn GitHub helper collection",
+      "promptTemplates": [
+        {
+          "title": "Readme",
+          "content": "Generate a README.md file for {github_helper_readme_repository_url}"
+        }
+      ],
+      "placeholders": [
+        {
+          "key": "github_helper_readme_repository_url",
+          "value": "https://github.com/4xxi/gptcorn-collections",
+          "headline": "GitHub helper README.md repository URL",
+          "description": "(Optional) GitHub repository URL to generate README.md file"
+        }
+      ]
+    }
+  ]
+}
