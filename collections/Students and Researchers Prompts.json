@@ -1,0 +1,54 @@
+{
+  "collections": [
+    {
+      "title": "Students and Researchers Prompts",
+      "description": "ChatGPT prompts for students and researchers",
+      "promptTemplates": [
+        {
+          "title": "Research Paper Assistance",
+          "content": "Help me structure a research paper on {research_subject}."
+        },
+        {
+          "title": "Study Guide Creation",
+          "content": "Create a study guide for {course_name} covering the following topics: {study_topics}."
+        },
+        {
+          "title": "Data Analysis Explanation",
+          "content": "Explain how to perform a {analysis_type} analysis on a data set related to {data_subject}."
+        }
+      ],
+      "placeholders": [
+        {
+          "key": "research_subject",
+          "value": "renewable energy technologies",
+          "headline": "Research Subject",
+          "description": ""
+        },
+        {
+          "key": "course_name",
+          "value": "Introduction to Psychology",
+          "headline": "Course Name",
+          "description": ""
+        },
+        {
+          "key": "study_topics",
+          "value": "cognitive development, social psychology",
+          "headline": "Study Topics",
+          "description": ""
+        },
+        {
+          "key": "analysis_type",
+          "value": "regression",
+          "headline": "Analysis Type",
+          "description": ""
+        },
+        {
+          "key": "data_subject",
+          "value": "consumer behavior trends",
+          "headline": "Data Subject",
+          "description": ""
+        }
+      ]
+    }
+  ]
+}

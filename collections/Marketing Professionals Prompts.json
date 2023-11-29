@@ -1,0 +1,54 @@
+{
+  "collections": [
+    {
+      "title": "Marketing Professionals Prompts",
+      "description": "ChatGPT prompts for marketing professionals",
+      "promptTemplates": [
+        {
+          "title": "Marketing Campaign Ideas",
+          "content": "Generate three innovative marketing campaign ideas for {product_or_service}."
+        },
+        {
+          "title": "Social Media Strategy",
+          "content": "Outline a social media strategy for {brand_name} focusing on {social_media_platforms}."
+        },
+        {
+          "title": "Competitor Analysis",
+          "content": "Perform a competitor analysis for {company_name} in the {industry_name} industry."
+        }
+      ],
+      "placeholders": [
+        {
+          "key": "product_or_service",
+          "value": "Smart Home Security System",
+          "headline": "Product or Service",
+          "description": ""
+        },
+        {
+          "key": "brand_name",
+          "value": "HealthFirst Supplements",
+          "headline": "Brand Name",
+          "description": ""
+        },
+        {
+          "key": "social_media_platforms",
+          "value": "Instagram and Twitter",
+          "headline": "Social Media Platforms",
+          "description": ""
+        },
+        {
+          "key": "company_name",
+          "value": "Fresh Organic Foods Ltd.",
+          "headline": "Company Name",
+          "description": ""
+        },
+        {
+          "key": "industry_name",
+          "value": "organic food market",
+          "headline": "Industry Name",
+          "description": ""
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "collections": [
+    {
+      "title": "Product Managers and Designers Prompts",
+      "description": "ChatGPT prompts for product managers and designers",
+      "promptTemplates": [
+        {
+          "title": "Feature Development Brainstorm",
+          "content": "Brainstorm potential features for a new {product_type} targeting {target_market}."
+        },
+        {
+          "title": "User Persona Creation",
+          "content": "Create a detailed user persona for {product_name}, focusing on {user_demographics}."
+        },
+        {
+          "title": "UX Review",
+          "content": "Conduct a UX review for {website_or_app} and suggest improvements."
+        }
+      ],
+      "placeholders": [
+        {
+          "key": "product_type",
+          "value": "fitness tracking app",
+          "headline": "Product Type",
+          "description": ""
+        },
+        {
+          "key": "target_market",
+          "value": "busy professionals aged 25-40",
+          "headline": "Target Market",
+          "description": ""
+        },
+        {
+          "key": "product_name",
+          "value": "Mindful Meditation App",
+          "headline": "Product Name",
+          "description": ""
+        },
+        {
+          "key": "user_demographics",
+          "value": "young adults interested in mental health",
+          "headline": "User Demographics",
+          "description": ""
+        },
+        {
+          "key": "website_or_app",
+          "value": "TravelBuddy mobile application",
+          "headline": "Website or App",
+          "description": ""
+        }
+      ]
+    }
+  ]
+}

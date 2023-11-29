@@ -1,0 +1,60 @@
+{
+  "collections": [
+    {
+      "title": "Educators and Trainers Prompts",
+      "description": "ChatGPT prompts for educators and trainers",
+      "promptTemplates": [
+        {
+          "title": "Lesson Plan Development",
+          "content": "Develop a lesson plan for teaching {subject} to {student_age_group}."
+        },
+        {
+          "title": "Interactive Exercise Design",
+          "content": "Create an interactive exercise to teach {skill_or_concept} in a {learning_environment}."
+        },
+        {
+          "title": "Educational Content Summary",
+          "content": "Summarize the key points of {educational_material} for a {target_audience}."
+        }
+      ],
+      "placeholders": [
+        {
+          "key": "subject",
+          "value": "basic coding principles",
+          "headline": "Subject",
+          "description": ""
+        },
+        {
+          "key": "student_age_group",
+          "value": "high school students",
+          "headline": "Student Age Group",
+          "description": ""
+        },
+        {
+          "key": "skill_or_concept",
+          "value": "critical thinking",
+          "headline": "Skill or Concept",
+          "description": ""
+        },
+        {
+          "key": "learning_environment",
+          "value": "online classroom",
+          "headline": "Learning Environment",
+          "description": ""
+        },
+        {
+          "key": "educational_material",
+          "value": "World History Textbook, Chapter 5",
+          "headline": "Educational Material",
+          "description": ""
+        },
+        {
+          "key": "target_audience",
+          "value": "beginner learners",
+          "headline": "Target Audience",
+          "description": ""
+        }
+      ]
+    }
+  ]
+}

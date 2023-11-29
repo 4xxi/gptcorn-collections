@@ -1,0 +1,48 @@
+{
+  "collections": [
+    {
+      "title": "Copywriters and Content Creators Prompts",
+      "description": "ChatGPT prompts tailored for copywriters and content creators",
+      "promptTemplates": [
+        {
+          "title": "Blog Post Ideas",
+          "content": "Generate three unique blog post ideas for a website focused on {content_topic}."
+        },
+        {
+          "title": "Ad Copy Creation",
+          "content": "Create an engaging ad copy for {product_name}, emphasizing its key feature: {product_feature}."
+        },
+        {
+          "title": "SEO Article Outline",
+          "content": "Provide an outline for an SEO-friendly article about {seo_topic}. Include suggested keywords."
+        }
+      ],
+      "placeholders": [
+        {
+          "key": "content_topic",
+          "value": "sustainable fashion",
+          "headline": "Content Topic",
+          "description": ""
+        },
+        {
+          "key": "product_name",
+          "value": "EcoSmart Running Shoes",
+          "headline": "Product Name",
+          "description": ""
+        },
+        {
+          "key": "product_feature",
+          "value": "made from recycled materials",
+          "headline": "Product Feature",
+          "description": ""
+        },
+        {
+          "key": "seo_topic",
+          "value": "organic food benefits",
+          "headline": "SEO Topic",
+          "description": ""
+        }
+      ]
+    }
+  ]
+}

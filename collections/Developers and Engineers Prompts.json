@@ -1,0 +1,48 @@
+{
+  "collections": [
+    {
+      "title": "Developers and Engineers Prompts",
+      "description": "ChatGPT prompts for developers and engineers",
+      "promptTemplates": [
+        {
+          "title": "Code Debugging",
+          "content": "Help debug a piece of code in {programming_language} that generates {error_type}."
+        },
+        {
+          "title": "API Integration Guide",
+          "content": "Write a guide on integrating the {api_name} API into a {programming_language} project."
+        },
+        {
+          "title": "Optimization Strategy",
+          "content": "Suggest optimization strategies for a {programming_language} application focusing on {application_aspect}."
+        }
+      ],
+      "placeholders": [
+        {
+          "key": "programming_language",
+          "value": "JavaScript",
+          "headline": "Programming Language",
+          "description": ""
+        },
+        {
+          "key": "error_type",
+          "value": "memory leak",
+          "headline": "Error Type",
+          "description": ""
+        },
+        {
+          "key": "api_name",
+          "value": "Stripe Payment",
+          "headline": "API Name",
+          "description": ""
+        },
+        {
+          "key": "application_aspect",
+          "value": "performance and speed",
+          "headline": "Application Aspect",
+          "description": ""
+        }
+      ]
+    }
+  ]
+}
