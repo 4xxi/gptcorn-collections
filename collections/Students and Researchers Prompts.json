@@ -6,44 +6,44 @@
       "promptTemplates": [
         {
           "title": "Research Paper Assistance",
-          "content": "Help me structure a research paper on {research_subject}."
+          "content": "Help me structure a research paper on {students_research_subject}."
         },
         {
           "title": "Study Guide Creation",
-          "content": "Create a study guide for {course_name} covering the following topics: {study_topics}."
+          "content": "Create a study guide for {students_course_name} covering the following topics: {students_study_topics}."
         },
         {
           "title": "Data Analysis Explanation",
-          "content": "Explain how to perform a {analysis_type} analysis on a data set related to {data_subject}."
+          "content": "Explain how to perform a {students_analysis_type} analysis on a data set related to {students_data_subject}."
         }
       ],
       "placeholders": [
         {
-          "key": "research_subject",
+          "key": "students_research_subject",
           "value": "renewable energy technologies",
           "headline": "Research Subject",
           "description": ""
         },
         {
-          "key": "course_name",
+          "key": "students_course_name",
           "value": "Introduction to Psychology",
           "headline": "Course Name",
           "description": ""
         },
         {
-          "key": "study_topics",
+          "key": "students_study_topics",
           "value": "cognitive development, social psychology",
           "headline": "Study Topics",
           "description": ""
         },
         {
-          "key": "analysis_type",
+          "key": "students_analysis_type",
           "value": "regression",
           "headline": "Analysis Type",
           "description": ""
         },
         {
-          "key": "data_subject",
+          "key": "students_data_subject",
           "value": "consumer behavior trends",
           "headline": "Data Subject",
           "description": ""

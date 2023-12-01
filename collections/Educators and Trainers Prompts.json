@@ -6,50 +6,50 @@
       "promptTemplates": [
         {
           "title": "Lesson Plan Development",
-          "content": "Develop a lesson plan for teaching {subject} to {student_age_group}."
+          "content": "Develop a lesson plan for teaching {educators_subject} to {educators_student_age_group}."
         },
         {
           "title": "Interactive Exercise Design",
-          "content": "Create an interactive exercise to teach {skill_or_concept} in a {learning_environment}."
+          "content": "Create an interactive exercise to teach {educators_skill_or_concept} in a {educators_learning_environment}."
         },
         {
           "title": "Educational Content Summary",
-          "content": "Summarize the key points of {educational_material} for a {target_audience}."
+          "content": "Summarize the key points of {educators_educational_material} for a {educators_target_audience}."
         }
       ],
       "placeholders": [
         {
-          "key": "subject",
+          "key": "educators_subject",
           "value": "basic coding principles",
           "headline": "Subject",
           "description": ""
         },
         {
-          "key": "student_age_group",
+          "key": "educators_student_age_group",
           "value": "high school students",
           "headline": "Student Age Group",
           "description": ""
         },
         {
-          "key": "skill_or_concept",
+          "key": "educators_skill_or_concept",
           "value": "critical thinking",
           "headline": "Skill or Concept",
           "description": ""
         },
         {
-          "key": "learning_environment",
+          "key": "educators_learning_environment",
           "value": "online classroom",
           "headline": "Learning Environment",
           "description": ""
         },
         {
-          "key": "educational_material",
+          "key": "educators_educational_material",
           "value": "World History Textbook, Chapter 5",
           "headline": "Educational Material",
           "description": ""
         },
         {
-          "key": "target_audience",
+          "key": "educators_target_audience",
           "value": "beginner learners",
           "headline": "Target Audience",
           "description": ""

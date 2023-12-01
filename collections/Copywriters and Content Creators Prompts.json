@@ -6,38 +6,38 @@
       "promptTemplates": [
         {
           "title": "Blog Post Ideas",
-          "content": "Generate three unique blog post ideas for a website focused on {content_topic}."
+          "content": "Generate three unique blog post ideas for a website focused on {copywriters_content_topic}."
         },
         {
           "title": "Ad Copy Creation",
-          "content": "Create an engaging ad copy for {product_name}, emphasizing its key feature: {product_feature}."
+          "content": "Create an engaging ad copy for {copywriters_product_name}, emphasizing its key feature: {copywriters_product_feature}."
         },
         {
           "title": "SEO Article Outline",
-          "content": "Provide an outline for an SEO-friendly article about {seo_topic}. Include suggested keywords."
+          "content": "Provide an outline for an SEO-friendly article about {copywriters_seo_topic}. Include suggested keywords."
         }
       ],
       "placeholders": [
         {
-          "key": "content_topic",
+          "key": "copywriters_content_topic",
           "value": "sustainable fashion",
           "headline": "Content Topic",
           "description": ""
         },
         {
-          "key": "product_name",
+          "key": "copywriters_product_name",
           "value": "EcoSmart Running Shoes",
           "headline": "Product Name",
           "description": ""
         },
         {
-          "key": "product_feature",
+          "key": "copywriters_product_feature",
           "value": "made from recycled materials",
           "headline": "Product Feature",
           "description": ""
         },
         {
-          "key": "seo_topic",
+          "key": "copywriters_seo_topic",
           "value": "organic food benefits",
           "headline": "SEO Topic",
           "description": ""

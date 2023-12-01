@@ -6,38 +6,38 @@
       "promptTemplates": [
         {
           "title": "Code Debugging",
-          "content": "Help debug a piece of code in {programming_language} that generates {error_type}."
+          "content": "Help debug a piece of code in {developers_programming_language} that generates {developers_error_type}."
         },
         {
           "title": "API Integration Guide",
-          "content": "Write a guide on integrating the {api_name} API into a {programming_language} project."
+          "content": "Write a guide on integrating the {developers_api_name} API into a {developers_programming_language} project."
         },
         {
           "title": "Optimization Strategy",
-          "content": "Suggest optimization strategies for a {programming_language} application focusing on {application_aspect}."
+          "content": "Suggest optimization strategies for a {developers_programming_language} application focusing on {developers_application_aspect}."
         }
       ],
       "placeholders": [
         {
-          "key": "programming_language",
+          "key": "developers_programming_language",
           "value": "JavaScript",
           "headline": "Programming Language",
           "description": ""
         },
         {
-          "key": "error_type",
+          "key": "developers_error_type",
           "value": "memory leak",
           "headline": "Error Type",
           "description": ""
         },
         {
-          "key": "api_name",
+          "key": "developers_api_name",
           "value": "Stripe Payment",
           "headline": "API Name",
           "description": ""
         },
         {
-          "key": "application_aspect",
+          "key": "developers_application_aspect",
           "value": "performance and speed",
           "headline": "Application Aspect",
           "description": ""

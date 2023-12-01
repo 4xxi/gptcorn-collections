@@ -6,44 +6,44 @@
       "promptTemplates": [
         {
           "title": "Feature Development Brainstorm",
-          "content": "Brainstorm potential features for a new {product_type} targeting {target_market}."
+          "content": "Brainstorm potential features for a new {product_managers_product_type} targeting {product_managers_target_market}."
         },
         {
           "title": "User Persona Creation",
-          "content": "Create a detailed user persona for {product_name}, focusing on {user_demographics}."
+          "content": "Create a detailed user persona for {product_managers_product_name}, focusing on {product_managers_user_demographics}."
         },
         {
           "title": "UX Review",
-          "content": "Conduct a UX review for {website_or_app} and suggest improvements."
+          "content": "Conduct a UX review for {product_managers_website_or_app} and suggest improvements."
         }
       ],
       "placeholders": [
         {
-          "key": "product_type",
+          "key": "product_managers_product_type",
           "value": "fitness tracking app",
           "headline": "Product Type",
           "description": ""
         },
         {
-          "key": "target_market",
+          "key": "product_managers_target_market",
           "value": "busy professionals aged 25-40",
           "headline": "Target Market",
           "description": ""
         },
         {
-          "key": "product_name",
+          "key": "product_managers_product_name",
           "value": "Mindful Meditation App",
           "headline": "Product Name",
           "description": ""
         },
         {
-          "key": "user_demographics",
+          "key": "product_managers_user_demographics",
           "value": "young adults interested in mental health",
           "headline": "User Demographics",
           "description": ""
         },
         {
-          "key": "website_or_app",
+          "key": "product_managers_website_or_app",
           "value": "TravelBuddy mobile application",
           "headline": "Website or App",
           "description": ""
